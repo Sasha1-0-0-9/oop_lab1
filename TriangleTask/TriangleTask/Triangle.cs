@@ -12,7 +12,6 @@ namespace TriangleTask
 
         public Triangle()
         {
-            Random rand = new Random();
             a = int.Parse(Console.ReadLine());
             b = int.Parse(Console.ReadLine());
             c = int.Parse(Console.ReadLine());
