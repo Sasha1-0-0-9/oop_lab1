@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\TriangleTask\TriangleTask\bin\Debug\netcoreapp3.1\TriangleTask.exe
+C:\Users\asus\source\repos\TriangleTask\TriangleTask\bin\Debug\netcoreapp3.1\TriangleTask.deps.json
+C:\Users\asus\source\repos\TriangleTask\TriangleTask\bin\Debug\netcoreapp3.1\TriangleTask.runtimeconfig.json
+C:\Users\asus\source\repos\TriangleTask\TriangleTask\bin\Debug\netcoreapp3.1\TriangleTask.runtimeconfig.dev.json
+C:\Users\asus\source\repos\TriangleTask\TriangleTask\bin\Debug\netcoreapp3.1\TriangleTask.dll
+C:\Users\asus\source\repos\TriangleTask\TriangleTask\bin\Debug\netcoreapp3.1\TriangleTask.pdb
+C:\Users\asus\source\repos\TriangleTask\TriangleTask\obj\Debug\netcoreapp3.1\TriangleTask.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\TriangleTask\TriangleTask\obj\Debug\netcoreapp3.1\TriangleTask.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\TriangleTask\TriangleTask\obj\Debug\netcoreapp3.1\TriangleTask.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\TriangleTask\TriangleTask\obj\Debug\netcoreapp3.1\TriangleTask.AssemblyInfo.cs
+C:\Users\asus\source\repos\TriangleTask\TriangleTask\obj\Debug\netcoreapp3.1\TriangleTask.dll
+C:\Users\asus\source\repos\TriangleTask\TriangleTask\obj\Debug\netcoreapp3.1\TriangleTask.pdb
+C:\Users\asus\source\repos\TriangleTask\TriangleTask\obj\Debug\netcoreapp3.1\TriangleTask.genruntimeconfig.cache
